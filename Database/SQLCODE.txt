@@ -1,0 +1,6 @@
+Please Create a new Database
+Called Score
+Username David
+Password David
+CREATE TABLE playerlogin ( userName VARCHAR(50),password VARCHAR(50));
+CREATE TABLE ScoreList ( playername VARCHAR(50),playerscore FLOAT);
